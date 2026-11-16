@@ -1,0 +1,15 @@
+0 verbose cli /usr/bin/node-20 /usr/bin/npm
+1 info using npm@10.8.2
+2 info using node@v20.20.2
+3 silly config load:file:/usr/lib/nodejs20/lib/node_modules/npm/npmrc
+4 silly config load:file:/home/cloudshell-user/.npmrc
+5 silly config load:file:/usr/lib/nodejs20/etc/npmrc
+6 verbose title npm create vite@latest staticwebsite --template react
+7 verbose argv "create" "vite@latest" "staticwebsite" "--" "--template" "react"
+8 verbose logfile logs-max:10 dir:/home/cloudshell-user/.npm/_logs/2026-11-15T22_57_17_949Z-
+9 verbose logfile /home/cloudshell-user/.npm/_logs/2026-11-15T22_57_17_949Z-debug-0.log
+10 silly logfile start cleaning logs, removing 1 files
+11 silly logfile done cleaning log files
+12 silly packumentCache heap:2027945984 maxSize:506986496 maxEntrySize:253493248
+13 http fetch GET 200 https://registry.npmjs.org/create-vite 164ms (cache revalidated)
+14 silly packumentCache heap:2027945984 maxSize:506986496 maxEntrySize:253493248
